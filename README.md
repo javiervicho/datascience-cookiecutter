@@ -25,7 +25,10 @@ $ conda install cookiecutter
 
 ### To start a new project, run:
 ------------
+    # Create a new project from the cookiecutter template
+    cookiecutterhttps://github.com/javiervicho/datascience-cookiecutter
 
+    # once the v2 is out and to use the legacy v1 template, run:
     cookiecutter -c v1 https://github.com/javiervicho/datascience-cookiecutter
 
 
